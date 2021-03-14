@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T18:13:45.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="t8q0YYv0mHUcbriJl-zO" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T18:15:58.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="gwaXI-45HDxfXrRU6Imn" version="14.4.8" type="github">
   <diagram id="hDlai8KwJyfp5ygMdkSd" name="Page-1">
     <mxGraphModel dx="3201" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-8" value="&lt;font face=&quot;Verdana&quot;&gt;Título III. Derechos de las personas.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-8" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px&quot;&gt;Título III. Derechos de las personas.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="134" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-9" value="&lt;font face=&quot;Verdana&quot;&gt;Información que debe aportar el responsable:&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="347" y="-30" width="120" height="60" as="geometry" />
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-9" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px&quot;&gt;Información que debe aportar el responsable:&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-60" width="137" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-10" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Verdana&quot;&gt;-Los derechos&amp;nbsp;podrán ejercerse directamente o por medio de representante legal o voluntario&lt;br&gt;&lt;br&gt;-El responsable del tratamiento estará obligado a informar al afectado sobre los&lt;br&gt;medios a su disposición para ejercer los derechos que le corresponden&lt;br&gt;&lt;br&gt;-En general, los costes de los trámites recaerán sobre el responsable&lt;br&gt;&lt;br&gt;-Los titulares de la patria potestad podrán ejercitar en nombre y&lt;br&gt;representación de los menores de catorce años sus derechos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-300" width="510" height="330" as="geometry" />
