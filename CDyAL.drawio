@@ -1,35 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T14:36:35.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="iPBi8s4ZukIhhsXFyN26" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T14:58:16.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="H9SPDis70EhD4xEMCJEf" version="14.4.8" type="github">
   <diagram id="hDlai8KwJyfp5ygMdkSd" name="Page-1">
-    <mxGraphModel dx="2489" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-1" value="&lt;font face=&quot;Verdana&quot;&gt;Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y Garantía de los Derechos Digitales&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="10" width="250" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-3" value="garantizar el derecho de&lt;br/&gt;protección de datos de los interesados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329" y="160" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-6" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vOUudeW_BmgEyp0vM7fF-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="150" as="sourcePoint" />
-            <mxPoint x="390" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-7" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vOUudeW_BmgEyp0vM7fF-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="190" as="sourcePoint" />
-            <mxPoint x="414" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-8" value="&lt;font face=&quot;Verdana&quot;&gt;Título III. Derechos de las personas.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-9" value="&lt;font face=&quot;Verdana&quot;&gt;Información que debe aportar el responsable:&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="347" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-10" value="&lt;font face=&quot;Verdana&quot;&gt;-&lt;/font&gt;Los derechos&amp;nbsp;podrán ejercerse directamente o por medio de representante legal o voluntario&lt;br&gt;&lt;br&gt;-El responsable del tratamiento estará obligado a informar al afectado sobre los&lt;br&gt;medios a su disposición para ejercer los derechos que le corresponden&lt;br&gt;&lt;br&gt;-El encargado podrá tramitar, por cuenta del responsable, las solicitudes de&lt;br/&gt;ejercicio formuladas por los afectados de sus derechos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry y="610" width="320" height="250" as="geometry" />
+          <mxGeometry y="610" width="430" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="209" y="410" width="120" height="60" as="geometry" />
@@ -46,19 +28,19 @@
         <mxCell id="vOUudeW_BmgEyp0vM7fF-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="790" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-16" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-8" target="vOUudeW_BmgEyp0vM7fF-17">
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-16" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-8" target="vOUudeW_BmgEyp0vM7fF-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="310" as="sourcePoint" />
             <mxPoint x="300" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-17" value="Artículo 11. Transparencia e información al afectado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="225" width="80" height="50" as="geometry" />
+          <mxGeometry x="374" y="100" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-18" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="vOUudeW_BmgEyp0vM7fF-9">
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-18" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="vOUudeW_BmgEyp0vM7fF-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="280" as="sourcePoint" />
-            <mxPoint x="460" y="230" as="targetPoint" />
+            <mxPoint x="410" y="90" as="sourcePoint" />
+            <mxPoint x="407" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-19" value="" style="endArrow=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-8" target="vOUudeW_BmgEyp0vM7fF-20">
@@ -169,23 +151,23 @@
             <mxPoint x="1000" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-45" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.712;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-9" target="vOUudeW_BmgEyp0vM7fF-47">
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-45" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-9" target="vOUudeW_BmgEyp0vM7fF-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="550" as="sourcePoint" />
             <mxPoint x="-100" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vOUudeW_BmgEyp0vM7fF-46" value="" style="endArrow=classic;html=1;exitX=0.683;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-9" target="vOUudeW_BmgEyp0vM7fF-48">
+        <mxCell id="vOUudeW_BmgEyp0vM7fF-46" value="" style="endArrow=classic;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vOUudeW_BmgEyp0vM7fF-9" target="vOUudeW_BmgEyp0vM7fF-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="550" as="sourcePoint" />
             <mxPoint x="60" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-47" value="&lt;font face=&quot;Verdana&quot;&gt;Si la información se obtiene del afectado:&lt;br&gt;-Identidad del responsable&lt;br&gt;-Finalidad del tratamiento&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="460" width="260" height="60" as="geometry" />
+          <mxGeometry x="114" y="-280" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vOUudeW_BmgEyp0vM7fF-48" value="&lt;font face=&quot;Verdana&quot;&gt;Si la información no se obtiene del afectado:&lt;br&gt;-Categorías de datos objeto de tratamiento&lt;br&gt;-Fuentes de las que procedieran los datos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="530" width="280" height="60" as="geometry" />
+          <mxGeometry x="410" y="-280" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
