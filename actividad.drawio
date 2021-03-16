@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T10:43:31.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="CqGq8e4XDrO7dpflDIY8" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T10:45:27.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Vx0-wLbmdhvdKCuv2Mvq" version="14.4.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="3543" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,6 +67,9 @@
         <mxCell id="gee_4Xi57a-n7Dq6tal4-60" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4">
           <mxGeometry x="182.75" y="50" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-75" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Solicita comprar un producto o servicio&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="4">
+          <mxGeometry x="121.63" y="150" width="152.25" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-41" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px&quot;&gt;Compra-Venta de productos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="-423" width="340" height="20" as="geometry" />
         </mxCell>
@@ -101,6 +104,12 @@
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-71" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-59">
           <mxGeometry x="125.5" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-76" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Procesa los datos asociados al producto o servicio&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-59">
+          <mxGeometry x="167.75" y="150" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gee_4Xi57a-n7Dq6tal4-75" target="gee_4Xi57a-n7Dq6tal4-76">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
