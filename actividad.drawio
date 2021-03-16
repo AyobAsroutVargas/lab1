@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T16:02:34.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="X6yqoLb9IiOpSOvNvJQe" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T16:03:12.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="wFDyVH1ijTDXCL_I9XT7" version="14.4.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="3939" dy="2149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -193,11 +193,8 @@
         <mxCell id="gee_4Xi57a-n7Dq6tal4-110" value="" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1180" y="-30" width="1070" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-130" value="Vendedor" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-130" value="comprador" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="30" y="1230" width="444.5" height="880" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-131" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Aporta los datos necesarios para&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 14px&quot;&gt;publicar un servicio o producto&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-130">
-          <mxGeometry x="147.25" y="115.5" width="150" height="71" as="geometry" />
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-132" value="sistema" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="474.5" y="1230" width="355.5" height="880" as="geometry" />
@@ -205,44 +202,14 @@
         <mxCell id="gee_4Xi57a-n7Dq6tal4-133" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
           <mxGeometry x="125.5" y="32" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-134" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;solicita los datos necesarios para publicar un servicio o producto&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
-          <mxGeometry x="43.25" y="112" width="194.5" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-133" target="gee_4Xi57a-n7Dq6tal4-134">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="53.25" y="161" as="sourcePoint" />
-            <mxPoint x="-64.5" y="161" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-137" target="gee_4Xi57a-n7Dq6tal4-139">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-137" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Comprueba los datos introducidos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
-          <mxGeometry x="60.5" y="240" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-139" target="gee_4Xi57a-n7Dq6tal4-143">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-139" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;¿Datos incorrectos o insuficientes?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
-          <mxGeometry x="50.5" y="350" width="179.5" height="147" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-139" target="gee_4Xi57a-n7Dq6tal4-134">
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-139">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295.5" y="150" as="targetPoint" />
+            <mxPoint x="237.7499999999991" y="151" as="targetPoint" />
             <Array as="points">
               <mxPoint x="305.5" y="424" />
               <mxPoint x="305.5" y="150" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-141" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;SI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
-          <mxGeometry x="245.5" y="390" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-132" source="gee_4Xi57a-n7Dq6tal4-143" target="gee_4Xi57a-n7Dq6tal4-144">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-143" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Actualiza el catálogo para que muestre el nuevo producto o servicio&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
-          <mxGeometry x="55.5" y="550" width="169.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-144" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
           <mxGeometry x="125.5" y="710" width="30" height="30" as="geometry" />
@@ -250,19 +217,8 @@
         <mxCell id="gee_4Xi57a-n7Dq6tal4-145" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px&quot;&gt;Realizar transacción&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-132">
           <mxGeometry x="-434.5" y="-50" width="295" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-146" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gee_4Xi57a-n7Dq6tal4-134" target="gee_4Xi57a-n7Dq6tal4-131">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="1620" as="sourcePoint" />
-            <mxPoint x="400" y="1381" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gee_4Xi57a-n7Dq6tal4-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gee_4Xi57a-n7Dq6tal4-131" target="gee_4Xi57a-n7Dq6tal4-137">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="252" y="1500" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-169" value="Vendedor" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="830" y="1230" width="444.5" height="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
