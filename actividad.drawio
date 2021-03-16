@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T15:52:03.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="o1NI1bCszCMTtcb-9iBe" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T15:54:41.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="WoDP_Zy1vTa297ohGmG0" version="14.4.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="3124" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -196,8 +196,14 @@
         <mxCell id="gee_4Xi57a-n7Dq6tal4-112" value="sistema" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="30" y="1305" width="444.5" height="880" as="geometry" />
         </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gee_4Xi57a-n7Dq6tal4-112" source="gee_4Xi57a-n7Dq6tal4-165" target="gee_4Xi57a-n7Dq6tal4-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-165" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;¿Precio negociable?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-112">
           <mxGeometry x="87.25" y="235" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-167" value="&lt;font face=&quot;Verdana&quot; size=&quot;3&quot;&gt;Comunicar usuarios&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="gee_4Xi57a-n7Dq6tal4-112">
+          <mxGeometry x="118.38" y="455" width="147.75" height="65" as="geometry" />
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-114" value="vendedor" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="474.5" y="1305" width="355.5" height="880" as="geometry" />
