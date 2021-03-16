@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T11:00:31.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="OUtVlXOC_gBX6CEuwGiP" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T11:06:13.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="JVx3k1Scehlf28ZEXTSG" version="14.4.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2554" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3124" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="-490" y="-70" width="940" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Comprador" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="1745.5" y="30" width="434.5" height="880" as="geometry" />
+          <mxGeometry x="1745.5" y="30" width="441.94" height="880" as="geometry" />
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-60" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4">
           <mxGeometry x="182.75" y="50" width="30" height="30" as="geometry" />
@@ -86,7 +86,20 @@
           <mxGeometry x="204.5" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-95" value="State1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=1;fillColor=none;" vertex="1" parent="4">
-          <mxGeometry x="132.75" y="440" width="257.25" height="150" as="geometry" />
+          <mxGeometry x="132.75" y="440" width="277.25" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-96" value="cancelar compra" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;flipH=1;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="4">
+          <mxGeometry x="283.88" y="490" width="158.06" height="58.06" as="geometry" />
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-105" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4" target="gee_4Xi57a-n7Dq6tal4-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354.5" y="680" as="sourcePoint" />
+            <mxPoint x="44.5" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="344.5" y="620" />
+              <mxPoint x="384.5" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gee_4Xi57a-n7Dq6tal4-41" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px&quot;&gt;Compra-Venta de productos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="-423" width="340" height="20" as="geometry" />
@@ -161,6 +174,9 @@
               <mxPoint x="1660" y="380" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gee_4Xi57a-n7Dq6tal4-98" value="" style="ellipse;resizable=0;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2128" y="738" width="4" height="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
