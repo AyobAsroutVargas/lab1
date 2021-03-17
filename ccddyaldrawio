@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T18:44:16.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="l_iJfdz0UZAEFmQB9UCp" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T18:46:05.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="obK3W2MibKYGmWikZPh2" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="2782" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,8 +382,8 @@
             <mxPoint x="300" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-118" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-118" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Los datos serán&amp;nbsp;tratados de tal manera que se garantice una seguridad adecuada de los msimos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="210" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
