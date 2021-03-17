@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T18:47:43.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="JwspdVBUBAsUWrwWXJVP" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T18:48:42.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="B52gB6xmbsEWskIE6snj" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="2782" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,6 +393,15 @@
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-120" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Se entiende por consentimiento del afectado toda manifestación de voluntad libre, específica, informada e inequívoca por la que este acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="-120" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-121" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-22" target="o2iaSZtHiRf0i70HbMn1-122">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="260" as="sourcePoint" />
+            <mxPoint x="530" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-122" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;El tratamiento de los datos personales de un menor de edad únicamente podrá&lt;br&gt;fundarse en su consentimiento cuando sea mayor de catorce años&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-120" width="225" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
