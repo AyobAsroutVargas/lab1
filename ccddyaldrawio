@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T17:19:31.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="AXtmnGFN2BG3vWV467n8" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T17:22:53.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="5qLrmHBFCbO7K6hq3dCv" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
-    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2374" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
             <mxPoint x="1440" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-65" value="&lt;font face=&quot;Verdana&quot;&gt;Prescriben a los tres años. Son&amp;nbsp;infracciones que supongan una&lt;br&gt;vulneración sustancial de los artículos mencionados en los artículos 83.5 y 83.6 del Reglamento (UE) 2016/679&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-65" value="&lt;font face=&quot;Verdana&quot;&gt;Prescriben a los tres años. Son&amp;nbsp;infracciones que supongan una&lt;br&gt;vulneración sustancial de los artículos mencionados en el artículo 83, puntos 5 y 6 del Reglamento (UE) 2016/679&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="970" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span&gt;Prescriben a los dos años. Son&amp;nbsp;infracciones que supongan una&lt;/span&gt;&lt;br&gt;&lt;span&gt;vulneración sustancial de los artículos mencionados en el artículo 83.4 del Reglamento (UE) 2016/679&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
