@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T16:58:00.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="T6BcfQosHqz0Rq41pAqL" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T17:05:22.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="_yXf1umpxjbq2fC8Wk6m" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,13 +187,13 @@
         <mxCell id="o2iaSZtHiRf0i70HbMn1-67" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-70" value="-La utilización de los datos para una finalidad que no sea compatible con la finalidad&lt;br&gt;para la cual fueron recogidos, sin contar con el consentimiento del afectado o con una base legal para ello." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="1140" width="250" height="120" as="geometry" />
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-70" value="&lt;font face=&quot;Verdana&quot;&gt;-La utilización de los datos para una finalidad que no sea compatible con la finalidad&lt;br&gt;para la cual fueron recogidos, sin contar con el consentimiento del afectado o con una base legal para ello.&lt;br&gt;&lt;br&gt;-La vulneración del deber de confidencialidad&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1140" width="245" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-71" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-73" target="o2iaSZtHiRf0i70HbMn1-70">
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-71" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="1000" as="sourcePoint" />
-            <mxPoint x="800" y="950" as="targetPoint" />
+            <mxPoint x="780" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-72" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-65" target="o2iaSZtHiRf0i70HbMn1-73">
