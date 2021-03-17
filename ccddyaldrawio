@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T17:22:53.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="5qLrmHBFCbO7K6hq3dCv" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T17:52:07.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="BoBHLYCIOkLwjmdTedfj" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
-    <mxGraphModel dx="2374" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3201" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,13 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-4" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Título IX. Régimen sancionador&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="660" width="90" height="60" as="geometry" />
+          <mxGeometry x="955" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-5" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Título II. Principios de protección de datos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="330" width="104" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Título V. Responsable y encargado del tratamiento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="690" width="110" height="80" as="geometry" />
+          <mxGeometry x="110" y="690" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-13" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -99,147 +99,204 @@
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-48" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-4" target="o2iaSZtHiRf0i70HbMn1-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="730" as="sourcePoint" />
-            <mxPoint x="510" y="820" as="targetPoint" />
+            <mxPoint x="1085" y="760" as="sourcePoint" />
+            <mxPoint x="855" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-49" value="" style="endArrow=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-4" target="o2iaSZtHiRf0i70HbMn1-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="730" as="sourcePoint" />
-            <mxPoint x="620" y="810" as="targetPoint" />
+            <mxPoint x="1085" y="760" as="sourcePoint" />
+            <mxPoint x="965" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-50" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-4" target="o2iaSZtHiRf0i70HbMn1-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="730" as="sourcePoint" />
-            <mxPoint x="565" y="840" as="targetPoint" />
+            <mxPoint x="1085" y="760" as="sourcePoint" />
+            <mxPoint x="910" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-51" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Infracciones&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="1705" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-52" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Sanciones&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="985" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-53" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Personas responsables&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="735" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-54" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-53" target="o2iaSZtHiRf0i70HbMn1-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="710" as="sourcePoint" />
-            <mxPoint x="422" y="950" as="targetPoint" />
+            <mxPoint x="1085" y="740" as="sourcePoint" />
+            <mxPoint x="767" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-55" value="&lt;font face=&quot;Verdana&quot;&gt;-Los responsables de los tratamientos&lt;br&gt;&lt;br&gt;-Los encargados de los tratamientos.&lt;br&gt;&lt;br&gt;-Los representantes de los responsables o encargados de los tratamientos no establecidos en el territorio de la Unión Europea.&lt;br&gt;&lt;br&gt;-Las entidades de certificación.&lt;br&gt;&lt;br&gt;-Las entidades acreditadas de supervisión de los códigos de conducta&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="850" width="250" height="220" as="geometry" />
+          <mxGeometry x="525" y="910" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-56" value="" style="endArrow=none;html=1;entryX=0.892;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-61" target="o2iaSZtHiRf0i70HbMn1-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1720" y="840" as="sourcePoint" />
-            <mxPoint x="1440" y="940" as="targetPoint" />
+            <mxPoint x="1855" y="880" as="sourcePoint" />
+            <mxPoint x="1575" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-57" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-60" target="o2iaSZtHiRf0i70HbMn1-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1630" y="850" as="sourcePoint" />
-            <mxPoint x="1440" y="940" as="targetPoint" />
+            <mxPoint x="1765" y="890" as="sourcePoint" />
+            <mxPoint x="1575" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-58" value="" style="endArrow=none;html=1;entryX=0.142;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-59" target="o2iaSZtHiRf0i70HbMn1-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1560" y="840" as="sourcePoint" />
-            <mxPoint x="1440" y="940" as="targetPoint" />
+            <mxPoint x="1695" y="880" as="sourcePoint" />
+            <mxPoint x="1575" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-59" value="&lt;font face=&quot;Verdana&quot;&gt;Muy graves&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1555" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-60" value="&lt;font face=&quot;Verdana&quot;&gt;Graves&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1715" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-61" value="&lt;font face=&quot;Verdana&quot;&gt;Leves&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1935" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-62" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-65" target="o2iaSZtHiRf0i70HbMn1-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1480" y="970" as="sourcePoint" />
-            <mxPoint x="1440" y="900" as="targetPoint" />
+            <mxPoint x="1615" y="1010" as="sourcePoint" />
+            <mxPoint x="1575" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-63" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-66" target="o2iaSZtHiRf0i70HbMn1-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1640" y="960" as="sourcePoint" />
-            <mxPoint x="1440" y="900" as="targetPoint" />
+            <mxPoint x="1775" y="1000" as="sourcePoint" />
+            <mxPoint x="1575" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-64" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-67" target="o2iaSZtHiRf0i70HbMn1-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1810" y="1000" as="sourcePoint" />
-            <mxPoint x="1440" y="900" as="targetPoint" />
+            <mxPoint x="1945" y="1040" as="sourcePoint" />
+            <mxPoint x="1575" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-65" value="&lt;font face=&quot;Verdana&quot;&gt;Prescriben a los tres años. Son&amp;nbsp;infracciones que supongan una&lt;br&gt;vulneración sustancial de los artículos mencionados en el artículo 83, puntos 5 y 6 del Reglamento (UE) 2016/679&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="970" width="220" height="90" as="geometry" />
+          <mxGeometry x="1455" y="1010" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span&gt;Prescriben a los dos años. Son&amp;nbsp;infracciones que supongan una&lt;/span&gt;&lt;br&gt;&lt;span&gt;vulneración sustancial de los artículos mencionados en el artículo 83.4 del Reglamento (UE) 2016/679&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="970" width="220" height="100" as="geometry" />
+          <mxGeometry x="1705" y="1010" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-67" value="&lt;span&gt;&lt;font face=&quot;Verdana&quot;&gt;Prescriben al año. &lt;br&gt;Son las infracciones del artículo 83 que no se hayan especificado&amp;nbsp;como graves o muy graves&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="973.75" width="200" height="87.5" as="geometry" />
+          <mxGeometry x="1955" y="1013.75" width="200" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-70" value="&lt;font face=&quot;Verdana&quot;&gt;-La utilización de los datos para una finalidad que no sea compatible con la finalidad&lt;br&gt;para la cual fueron recogidos, sin contar con el consentimiento del afectado o con una base legal para ello.&lt;br&gt;&lt;br&gt;-La vulneración del deber de confidencialidad&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1130" width="245" height="140" as="geometry" />
+          <mxGeometry x="1405" y="1170" width="245" height="140" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-71" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="990" as="sourcePoint" />
-            <mxPoint x="1430" y="1130" as="targetPoint" />
+            <mxPoint x="1535" y="1030" as="sourcePoint" />
+            <mxPoint x="1565" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-72" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-65" target="o2iaSZtHiRf0i70HbMn1-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="990" as="sourcePoint" />
-            <mxPoint x="1430" y="1090" as="targetPoint" />
+            <mxPoint x="1535" y="1030" as="sourcePoint" />
+            <mxPoint x="1565" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-73" value="&lt;font face=&quot;Verdana&quot;&gt;Ejemplos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="1080" width="40" height="20" as="geometry" />
+          <mxGeometry x="1545" y="1120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-74" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="1070" as="sourcePoint" />
-            <mxPoint x="1675" y="1090" as="targetPoint" />
+            <mxPoint x="1575" y="1110" as="sourcePoint" />
+            <mxPoint x="1810" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-75" value="&lt;font face=&quot;Verdana&quot;&gt;Ejemplos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1655" y="1090" width="40" height="20" as="geometry" />
+          <mxGeometry x="1790" y="1130" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-76" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-75" target="o2iaSZtHiRf0i70HbMn1-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440" y="1110" as="sourcePoint" />
-            <mxPoint x="1675" y="1150" as="targetPoint" />
+            <mxPoint x="1575" y="1150" as="sourcePoint" />
+            <mxPoint x="1810" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-77" value="&lt;font face=&quot;Verdana&quot;&gt;-El tratamiento de datos personales de un menor de edad sin recabar su consentimiento, cuando tenga capacidad para ello, o el del titular de su patria potestad o tutela&lt;br&gt;&lt;br&gt;-No acreditar la realización de esfuerzos razonables para verificar la validez del&lt;br&gt;consentimiento prestado por un menor de edad&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="1130" width="220" height="190" as="geometry" />
+          <mxGeometry x="1700" y="1170" width="220" height="190" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-78" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-67" target="o2iaSZtHiRf0i70HbMn1-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1685" y="1075" as="sourcePoint" />
-            <mxPoint x="1920" y="1080" as="targetPoint" />
+            <mxPoint x="1820" y="1115" as="sourcePoint" />
+            <mxPoint x="2055" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-80" value="&lt;font face=&quot;Verdana&quot;&gt;Ejemplos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="1080" width="40" height="20" as="geometry" />
+          <mxGeometry x="2035" y="1120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-81" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-80" target="o2iaSZtHiRf0i70HbMn1-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1685" y="1120" as="sourcePoint" />
-            <mxPoint x="1920" y="1130" as="targetPoint" />
+            <mxPoint x="1820" y="1160" as="sourcePoint" />
+            <mxPoint x="2055" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-82" value="&lt;font face=&quot;Verdana&quot;&gt;-El incumplimiento del principio de transparencia de la información o el derecho de información del afectado&lt;br&gt;&lt;br&gt;-El incumplimiento de la obligación de notificación relativa a la rectificación o supresión de datos personales o la limitación del tratamiento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1805" y="1150" width="230" height="130" as="geometry" />
+          <mxGeometry x="1940" y="1190" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-83" value="" style="endArrow=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-52" target="o2iaSZtHiRf0i70HbMn1-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1515" y="1030" as="sourcePoint" />
+            <mxPoint x="1055" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-84" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-52" target="o2iaSZtHiRf0i70HbMn1-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1515" y="1030" as="sourcePoint" />
+            <mxPoint x="955" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-85" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Por infracciones graves o leves&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-87" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px&quot;&gt;Por infracciones muy graves&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="880" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-88" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-85" target="o2iaSZtHiRf0i70HbMn1-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1525" y="950" as="sourcePoint" />
+            <mxPoint x="1080" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-89" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-87" target="o2iaSZtHiRf0i70HbMn1-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1525" y="950" as="sourcePoint" />
+            <mxPoint x="930" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-90" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Multas de hasta 10 000 000 EUR o una cuantía equivalente al 2% como máximo del volumen de negocio total anual global del ejercicio financiero anterior&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="950" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-91" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Multas de hasta 20 000 000 EUR o&amp;nbsp; una cuantía equivalente al 4% como máximo del volumen de negocio total anual global del ejercicio financiero anterior&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="940" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-92" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="sourcePoint" />
+            <mxPoint x="40" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-93" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-6" target="o2iaSZtHiRf0i70HbMn1-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="sourcePoint" />
+            <mxPoint x="-10" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-94" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="790" as="sourcePoint" />
+            <mxPoint x="110" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
