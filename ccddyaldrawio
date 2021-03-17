@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T15:13:15.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Sf7zCt_FaqkyW0NqHuIe" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T15:13:32.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="QWYymg8j5weXmqaBdVkJ" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="o2iaSZtHiRf0i70HbMn1-27" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 9. Categorías especiales de datos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="342.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-28" value="" style="endArrow=none;html=1;exitX=1.018;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-6">
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-28" value="" style="endArrow=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="780" as="sourcePoint" />
             <mxPoint x="490" y="760" as="targetPoint" />
