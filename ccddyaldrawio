@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T18:39:37.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="K3VR7N88zvkwuCNNG3XS" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T18:42:05.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="-Q9NyObSkdrkamh-UUlg" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="2782" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="OAJwqSx1H3JTVSXfgKOg-1" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Títulos imprescindibles para ejercer de ingeniero informático&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="336" y="507" width="156" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAJwqSx1H3JTVSXfgKOg-1">
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAJwqSx1H3JTVSXfgKOg-1" target="o2iaSZtHiRf0i70HbMn1-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="810" as="sourcePoint" />
             <mxPoint x="414" y="400" as="targetPoint" />
@@ -29,73 +29,73 @@
           <mxGeometry x="955" y="690" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-5" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Título II. Principios de protección de datos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="330" width="104" height="70" as="geometry" />
+          <mxGeometry x="528" y="220" width="104" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Título V. Responsable y encargado del tratamiento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-13" value="" style="endArrow=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="560" as="sourcePoint" />
-            <mxPoint x="510" y="310" as="targetPoint" />
+            <mxPoint x="736" y="450" as="sourcePoint" />
+            <mxPoint x="676" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-14" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="560" as="sourcePoint" />
-            <mxPoint x="480" y="260" as="targetPoint" />
+            <mxPoint x="736" y="450" as="sourcePoint" />
+            <mxPoint x="646" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-15" value="" style="endArrow=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="560" as="sourcePoint" />
-            <mxPoint x="414" y="240" as="targetPoint" />
+            <mxPoint x="736" y="450" as="sourcePoint" />
+            <mxPoint x="580" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-16" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="560" as="sourcePoint" />
-            <mxPoint x="350" y="260" as="targetPoint" />
+            <mxPoint x="736" y="450" as="sourcePoint" />
+            <mxPoint x="516" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-17" value="" style="endArrow=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="560" as="sourcePoint" />
-            <mxPoint x="340" y="310" as="targetPoint" />
+            <mxPoint x="736" y="450" as="sourcePoint" />
+            <mxPoint x="506" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-18" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 8. Tratamiento de datos por obligación legal, interés público o ejercicio de&lt;br&gt;poderes públicos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="165" width="110" height="110" as="geometry" />
+          <mxGeometry x="696" y="55" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Artículo 4. Exactitud de los datos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="226" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="392" y="280" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-20" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Artículo 5. Deber de confidencialidad&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="290" width="70" height="60" as="geometry" />
+          <mxGeometry x="336" y="180" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-21" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 6. Tratamiento basado en el consentimiento del afectado&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="198" y="190" width="116" height="60" as="geometry" />
+          <mxGeometry x="364" y="80" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-22" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 7. Consentimiento de los menores de edad&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="128" height="40" as="geometry" />
+          <mxGeometry x="516" y="50" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-24" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="sourcePoint" />
-            <mxPoint x="540" y="430" as="targetPoint" />
+            <mxPoint x="736" y="220" as="sourcePoint" />
+            <mxPoint x="706" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-25" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-5" target="o2iaSZtHiRf0i70HbMn1-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="sourcePoint" />
-            <mxPoint x="660" y="365" as="targetPoint" />
+            <mxPoint x="736" y="220" as="sourcePoint" />
+            <mxPoint x="826" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-26" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 10. Tratamiento de datos de naturaleza penal&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="691" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-27" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;Artículo 9. Categorías especiales de datos&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="342.5" width="110" height="45" as="geometry" />
+          <mxGeometry x="696" y="232.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-48" value="" style="endArrow=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-4" target="o2iaSZtHiRf0i70HbMn1-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -366,6 +366,12 @@
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-114" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;Las asociaciones y otros organismos representativos de categorías de responsables o encargados del tratamiento podrán elaborar códigos de conducta&amp;nbsp;con objeto de especificar la aplicación del&amp;nbsp;Reglamento (UE) 2016/679 con respecto a&amp;nbsp;el tratamiento leal y transparente o&amp;nbsp;la recogida de datos personales. Entre otros aspectos&lt;br&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-250" y="980" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-115" value="" style="endArrow=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="340" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
