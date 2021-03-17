@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-17T18:13:19.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="fAL0HwKPQn0Q7874qfqs" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T18:17:17.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="y57LIBCXooDnq-0ovkqF" version="14.4.8" type="github">
   <diagram id="JshQG5u6XloDlVsgl6dO" name="Page-1">
     <mxGraphModel dx="2782" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-103" value="&lt;font face=&quot;Verdana&quot;&gt;Obligatorio designar uno cuando&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="530" width="110" height="40" as="geometry" />
+          <mxGeometry x="-90" y="467" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o2iaSZtHiRf0i70HbMn1-104" value="" style="endArrow=none;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-103" target="o2iaSZtHiRf0i70HbMn1-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -328,8 +328,17 @@
             <mxPoint x="-170" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o2iaSZtHiRf0i70HbMn1-105" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;-El tratamiento lo lleve a cabo &lt;br&gt;una autoridad u organismo público&lt;br&gt;&lt;br&gt;-&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="440" width="270" height="60" as="geometry" />
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-105" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;-El tratamiento lo lleve a cabo &lt;br&gt;una autoridad u organismo público&lt;br&gt;&lt;br&gt;- L&lt;/font&gt;as actividades principales del responsable o del encargado consistan en operaciones de tratamiento que&amp;nbsp; requieran una observación habitual y sistemática de interesados a gran escala&lt;br&gt;&lt;font&gt;&lt;br&gt;-L&lt;/font&gt;as actividades principales del responsable o del encargado consistan en el tratamiento&amp;nbsp;de datos relativos a condenas e infracciones penales&lt;/font&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="190" width="390" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-106" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o2iaSZtHiRf0i70HbMn1-96" target="o2iaSZtHiRf0i70HbMn1-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="420" as="sourcePoint" />
+            <mxPoint x="-90" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2iaSZtHiRf0i70HbMn1-108" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="524.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
