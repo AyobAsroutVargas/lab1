@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T16:41:48.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="KGXUdFbw7MU4Z_Bhu08L" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T16:44:12.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="RePHIP-hAh6rf7T_qlm5" version="14.5.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,12 +26,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="700" y="390" as="sourcePoint" />
             <mxPoint x="620" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8MFKqXncUEForWFqmQ1h-9" value="Resolver reclamación" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.1;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8MFKqXncUEForWFqmQ1h-10" target="7baba1c4bc27f4b0-2">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="540" y="240" as="sourcePoint" />
-            <mxPoint x="700" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
