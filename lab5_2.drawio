@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T18:20:22.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="w2Hvg1V7KiihVGynL4Jg" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T18:24:30.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="_2VSSIVCUJ7LlyrHoHND" version="14.5.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-1" value="Comprador" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="30" height="660" as="geometry" />
+          <mxGeometry x="550" y="220" width="30" height="790" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-1">
-          <mxGeometry x="10" y="70" width="10" height="430" as="geometry" />
+          <mxGeometry x="10" y="70" width="10" height="600" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-2" value="&amp;lt;&amp;lt;sistema&amp;gt;&amp;gt;&lt;br&gt;sistema de pago" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="220" width="30" height="650" as="geometry" />
+          <mxGeometry x="950" y="220" width="30" height="760" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-2">
-          <mxGeometry x="10" y="380" width="10" height="170" as="geometry" />
+          <mxGeometry x="10" y="380" width="10" height="330" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-21" value="Verificar pago" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="BwTgDzvcS8eMvTGAKeEF-2">
           <mxGeometry relative="1" as="geometry">
@@ -32,10 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-7" value=":Pedido" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="290" width="100" height="590" as="geometry" />
+          <mxGeometry x="710" y="290" width="100" height="670" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-7">
-          <mxGeometry x="45" y="40" width="10" height="380" as="geometry" />
+          <mxGeometry x="45" y="40" width="10" height="520" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-13" value="Calcular total" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="BwTgDzvcS8eMvTGAKeEF-7">
           <mxGeometry relative="1" as="geometry">
@@ -58,9 +58,9 @@
             <mxPoint x="700" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwTgDzvcS8eMvTGAKeEF-14" value="Comunicar total" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-8" target="BwTgDzvcS8eMvTGAKeEF-1">
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-14" value="Comunicar total" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="BwTgDzvcS8eMvTGAKeEF-1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="620" y="380" as="sourcePoint" />
+            <mxPoint x="690" y="440" as="sourcePoint" />
             <mxPoint x="700" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -70,17 +70,26 @@
             <mxPoint x="900" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwTgDzvcS8eMvTGAKeEF-22" value="Comunicar exito en el pago" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.3;exitY=0.553;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-5" target="BwTgDzvcS8eMvTGAKeEF-1">
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-22" value="Comunicar exito en el pago" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.2;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-5" target="BwTgDzvcS8eMvTGAKeEF-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="820" y="560" as="sourcePoint" />
             <mxPoint x="900" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-23" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="550" width="750" height="230" as="geometry" />
+          <mxGeometry x="340" y="550" width="750" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="BwTgDzvcS8eMvTGAKeEF-25" value="Pago ejecutado con exito" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-25" value="[Pago ejecutado con exito]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="550" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-26" value="" style="endArrow=none;dashed=1;html=1;exitX=0;exitY=0.724;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-23" target="BwTgDzvcS8eMvTGAKeEF-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="570" as="sourcePoint" />
+            <mxPoint x="890" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-27" value="[else]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
