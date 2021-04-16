@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T18:13:26.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="F2YM89YjI6cGhiJdJsp_" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T18:15:14.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="u3q9mcwsHuBnLeHr-feC" version="14.5.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,10 +11,19 @@
           <mxGeometry x="10" y="70" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-2" value="&amp;lt;&amp;lt;sistema&amp;gt;&amp;gt;&lt;br&gt;sistema de pago" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="220" width="30" height="550" as="geometry" />
+          <mxGeometry x="950" y="220" width="30" height="650" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-2">
-          <mxGeometry x="10" y="380" width="10" height="100" as="geometry" />
+          <mxGeometry x="10" y="380" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-21" value="Verificar pago" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="BwTgDzvcS8eMvTGAKeEF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="45" y="410" />
+            </Array>
+            <mxPoint x="20" y="430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-6" value="Comprar producto" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.04;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-1" target="BwTgDzvcS8eMvTGAKeEF-7">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -26,7 +35,7 @@
           <mxGeometry x="710" y="290" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-7">
-          <mxGeometry x="45" y="40" width="10" height="240" as="geometry" />
+          <mxGeometry x="45" y="40" width="10" height="350" as="geometry" />
         </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-13" value="Calcular total" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="BwTgDzvcS8eMvTGAKeEF-7">
           <mxGeometry relative="1" as="geometry">
@@ -49,10 +58,16 @@
             <mxPoint x="700" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BwTgDzvcS8eMvTGAKeEF-14" value="Comunicar total" style="html=1;verticalAlign=bottom;endArrow=block;exitX=-0.1;exitY=0.696;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-8" target="BwTgDzvcS8eMvTGAKeEF-1">
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-14" value="Comunicar total" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-7" target="BwTgDzvcS8eMvTGAKeEF-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="620" y="380" as="sourcePoint" />
             <mxPoint x="700" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-15" value="Pagar pedido" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.4;exitY=0.837;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BwTgDzvcS8eMvTGAKeEF-3" target="BwTgDzvcS8eMvTGAKeEF-5">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="820" y="560" as="sourcePoint" />
+            <mxPoint x="900" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
