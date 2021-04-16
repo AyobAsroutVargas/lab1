@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T17:26:29.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="JUJrPKOMVZVS3B6Cj7Lx" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T17:27:01.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="5Dkm1ViOPhf9Rdzo-5e0" version="14.5.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,8 +7,14 @@
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-1" value="Comprador" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="30" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-1">
+          <mxGeometry x="10" y="70" width="10" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="BwTgDzvcS8eMvTGAKeEF-2" value="&amp;lt;&amp;lt;sistema&amp;gt;&amp;gt;&lt;br&gt;sistema de pago" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="220" width="30" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BwTgDzvcS8eMvTGAKeEF-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="BwTgDzvcS8eMvTGAKeEF-2">
+          <mxGeometry x="10" y="100" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
